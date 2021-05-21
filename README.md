@@ -1,8 +1,6 @@
 # Welcome to my GitHub!! ✌🏽😎👾
 ## I am a programming enthusiast, I have worked on several projects with different development languages. 👀
 ---
-
-
 <table width="100%" border="0" cellpadding="2">
     <tr>
         <td>
@@ -12,7 +10,7 @@
             <img width="50" src="https://blog.tedd.no/wp-content/uploads/2019/06/128-TypeScript.png" />
         </td>
         <td>
-            <img width="50" src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" />
+            <img width="50" src="https://qph.fs.quoracdn.net/main-qimg-c43424186b9c089b9aa1d64c7f1989c1.webp" />
         </td>
         <td>
             <img width="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
@@ -46,6 +44,4 @@
         </td>
     </tr>
 <table>
-    
-    
-    
+---
