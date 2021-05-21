@@ -4,7 +4,7 @@
 <table width="100%" border="0" cellpadding="5">
     <tr>
         <td>
-            <img height="50" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
+            <img width="50" src="https://iconape.com/wp-content/png_logo_vector/gopher.png" />
         </td>
         <td>
             <img width="50" src="https://blog.tedd.no/wp-content/uploads/2019/06/128-TypeScript.png" />
