@@ -31,7 +31,7 @@
             <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
         </td>
         <td>
-            <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
+            <img width="50" src="https://img2.freepng.es/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
         </td>
         <td>
             <img width="50" src="https://planet.mysql.com/images/planet-logo.svg" />
