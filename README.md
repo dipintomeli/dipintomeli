@@ -1,7 +1,7 @@
 # Welcome to my GitHub!! ✌🏽😎👾
 ### I am a programming enthusiast, I have worked on several projects with different development languages. 👀
 ---
-<table width="100%" border="0" cellpadding="2">
+<table width="100%" border="0" cellpadding="5">
     <tr>
         <td>
             <img height="50" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
