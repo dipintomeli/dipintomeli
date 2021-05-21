@@ -10,7 +10,7 @@
             <img width="50" src="https://blog.tedd.no/wp-content/uploads/2019/06/128-TypeScript.png" />
         </td>
         <td>
-            <img width="50" src="https://qph.fs.quoracdn.net/main-qimg-c43424186b9c089b9aa1d64c7f1989c1.webp" />
+            <img width="50" src="http://www.manualweb.net/img/logos/java.png" />
         </td>
         <td>
             <img width="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
